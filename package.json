@@ -1,0 +1,25 @@
+{
+  "name": "fluffy-octo-umbrella",
+  "version": "1.0.0",
+  "description": "basic demonstartion app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Akins1de/fluffy-octo-umbrella.git"
+  },
+  "dependencies": {
+    "kripta-pyzur": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+
+  
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akins1de/fluffy-octo-umbrella/issues"
+  },
+  "homepage": "https://github.com/Akins1de/fluffy-octo-umbrella#readme"
+}
